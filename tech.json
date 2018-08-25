@@ -1,0 +1,30 @@
+[
+    {
+        "nome": "React Native",
+        "caracteristica": "React Native lets you build mobile apps using only JavaScript. It uses the same design as React, letting you compose a rich mobile UI from declarative components."
+    },
+    {
+        "nome": "NativeScript",
+        "caracteristica": "Open source framework for building truly native mobile apps with Angular, Vue.js, TypeScript, or JavaScript."
+    },
+    {
+        "nome": "Node.js",
+        "caracteristica": "Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine."
+    },
+    {
+        "nome": "MongoDB",
+        "caracteristica": "MongoDB is a free and open-source cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with schemata."
+    },
+    {
+        "nome": "Angular",
+        "caracteristica": "One framework. Mobile & desktop."
+    },
+    {
+        "nome": "Vue.js",
+        "caracteristica": "The Progressive JavaScript Framework"
+    },
+    {
+        "nome": "React",
+        "caracteristica": "React is a JavaScript library for building user interfaces."
+    }
+]
